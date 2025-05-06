@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello! 👋
+
+I'm an undergraduate student at UC Santa Cruz majoring in Computer Science and minoring in Statistics, currently focused on software engineering.
+
+💻 My Current Tech Stack
+
+- Typescript React (including NEXT.js and React Native)
+- Tailwind CSS
+- Supabase (PostgreSQL)
+
 
 <!--
 **vinngo/vinngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
