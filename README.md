@@ -4,8 +4,9 @@ I'm an undergraduate student at UC Santa Cruz majoring in Computer Science and m
 
 💻 My Current Tech Stack
 
-- Typescript React (including NEXT.js and React Native) and TailwindCSS
+- React (including NEXT.js and React Native) and TailwindCSS
 - Supabase (PostgreSQL)
+- I mainly use .ts, .tsx, and .js for all of my projects
 
 🧰 Other Frameworks/Languages I use
 
