@@ -6,11 +6,11 @@ I'm an undergraduate student at UC Santa Cruz majoring in Computer Science and m
 
 - React (including NEXT.js and React Native) and TailwindCSS
 - Supabase (PostgreSQL)
-- I mainly use .ts, .tsx, and .js for all of my projects
+- I mainly use `.ts`, `.tsx`, and `.js` for all of my projects
 
 🧰 Other Frameworks/Languages I use
 
-- Python (FastAPI, scikit-learn, pytorch, pandas, numpy)
+- `.py` (FastAPI, scikit-learn, pytorch, pandas, numpy)
 - ExpressJS
 
 
