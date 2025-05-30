@@ -5,13 +5,13 @@ I'm an undergraduate student at UC Santa Cruz majoring in Computer Science and m
 💻 My Current Tech Stack
 
 - React (including NEXT.js and React Native) and TailwindCSS
+- ExpressJS
 - Supabase (PostgreSQL)
 - I mainly use `.ts`, `.tsx`, and `.js` for all of my projects
 
 🧰 Other Frameworks/Languages I use
 
 - `.py` (FastAPI, scikit-learn, pytorch, pandas, numpy)
-- ExpressJS
 
 
 <!--
