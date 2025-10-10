@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm an undergraduate student at UC Santa Cruz majoring in Computer Science and minoring in Statistics, currently focused on software engineering.
+I'm an undergraduate student at UC Santa Cruz majoring in Computer Science and minoring in Statistics, currently focused on full-stack engineering.
 
 💻 My Current Tech Stack
 
@@ -12,6 +12,8 @@ I'm an undergraduate student at UC Santa Cruz majoring in Computer Science and m
 🧰 Other Frameworks/Languages I use
 
 - `.py` (FastAPI, scikit-learn, pytorch, pandas, numpy)
+- `.swift`
+- `.java` (Spring Boot)
 
 
 <!--
