@@ -2,18 +2,18 @@
 
 I'm an undergraduate student at UC Santa Cruz majoring in Computer Science and minoring in Statistics, currently focused on full-stack engineering.
 
-💻 My Current Tech Stack
+my current tech stack
 
-- React (including NEXT.js and React Native) and TailwindCSS
-- ExpressJS
-- Supabase (PostgreSQL)
-- I mainly use `.ts`, `.tsx`, and `.js` for all of my projects
+- React (Next.js preferred)
+- Elysia.js (backend framework)
+- i mainly use `.ts` for all of my projects
 
-🧰 Other Frameworks/Languages I use
+other languages/frameworks i use
 
 - `.py` (FastAPI, scikit-learn, pytorch, pandas, numpy)
-- `.swift`
+- `.swift` (Mobile)
 - `.java` (Spring Boot)
+- `.rs` (open source)
 
 
 <!--
