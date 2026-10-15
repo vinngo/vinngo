@@ -1,11 +1,9 @@
-## Hello! 👋
+## hello
 
-I'm an undergraduate student at UC Santa Cruz majoring in Computer Science and minoring in Statistics, currently focused on full-stack engineering.
+i'm an undergraduate student at UC Santa Cruz majoring in Computer Science and minoring in Statistics, currently focused on full-stack engineering.
 
 my current tech stack
 
-- React (Next.js preferred)
-- Elysia.js (backend framework)
 - i mainly use `.ts` for all of my projects
 
 other languages/frameworks i use
@@ -13,7 +11,6 @@ other languages/frameworks i use
 - `.py` (FastAPI, scikit-learn, pytorch, pandas, numpy)
 - `.swift` (Mobile)
 - `.java` (Spring Boot)
-- `.rs` (open source)
 
 
 <!--
